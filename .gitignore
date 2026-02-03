@@ -37,3 +37,16 @@ build/
 
 ### Mac OS ###
 .DS_Store
+
+# Build folders and IDE settings
+target/
+.idea/
+*.iml
+
+# My secret files (DB and Key)
+*.db
+*.key
+
+# Executable files
+*.exe
+
